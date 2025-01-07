@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lumiex-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lumiex-dev" /> </p>
 
-- 🔭 I’m currently working on [///](*link to another github*)
+- 🔭 I’m currently working on [Noxi Website](https://github.com/LumiEx-dev/Noxxi-Website)
 
-- 🌱 I’m currently learning **Lua, JavaScript (Delayed)**
+- 🌱 I’m currently learning **Kivy, JavaScript**
 
 - 👯 I’m looking to collaborate on [///](*link to another github*)
 
-- 💬 Ask me about **Python, Html/Css (A bit)**
+- 💬 Ask me about **Python, Html/Css**
 
 - 📫 How to reach me **stellargames.lumi@gmail.com / Discord: Lumi_Ex_**
 
