@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Noxi Website](https://github.com/LumiEx-dev/Noxxi-Website)
 
-- 🌱 I’m currently learning **Kivy, JavaScript**
+- 🌱 I’m currently learning **Flutter, JavaScript**
 
 - 👯 I’m looking to collaborate on [///](*link to another github*)
 
